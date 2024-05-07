@@ -1,0 +1,62 @@
+/* Home section custom styles */
+.image {
+  width: 80%; /* Initial width of the image */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 40%;
+}
+
+.text {
+    text-align: center;
+    font-size: 200%;
+    margin-top: 100px;
+}
+
+.home {
+    height: 100vh;
+    margin-top: 60px;
+}
+
+/* Features section custom styles */
+.features {
+  height: 100vh;
+  margin-bottom: 50px;
+}
+
+.features h2, .about h2 {
+  text-align: center;
+}
+
+.card {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.block {
+  display: block;
+}
+
+/* About section custom styles */
+.intro, .solution, .contact {
+  width: 50%;
+  margin: auto;
+}
+
+.github {
+  margin: auto;
+}
+
+.contact-text {
+  text-align: center;
+}
+
+.about .list-group-item {
+  margin-bottom: 20px;
+}
+
+i {
+  text-align: center;
+}
+
+.icons:hover {
+  cursor: pointer;
+}
